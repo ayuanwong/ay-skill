@@ -1,0 +1,4 @@
+interface:
+  display_name: "ay.skill"
+  short_description: "AY strategy thinking and content preference alignment."
+  default_prompt: "Use $ay-skill to frame this problem, form a clear point of view, and shape the final artifact in the preferred AY style."
